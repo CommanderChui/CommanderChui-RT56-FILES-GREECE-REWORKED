@@ -467,9 +467,27 @@ ideas = {
             modifier = {
                 political_power_gain = 0.2
             }
-		}
+        }
     }
 
+		GRE_metaxas_plan = {
+            picture = generic_build_infrastructure
+            allowed = {
+                always = no
+            }
+            
+            allowed_civil_war = {
+                always = no
+            }
+            
+            removal_cost = -1
+
+            modifier = {
+			production_speed_buildings_factor = 0.03
+			research_time_factor = -0.01
+            }
+        }
+    }
     political_advisor = {
 
 	GRE_damaskinos = {
