@@ -484,7 +484,7 @@ ideas = {
 
             modifier = {
 		production_speed_buildings_factor = 0.05
-		research_time_factor = -0.02
+		research_time_factor = 0.02
             }
         }
     }
