@@ -1269,5 +1269,10 @@ spriteTypes = {
 		name = "GFX_focus_GRE_third_civ"
 		texturefile = "gfx/interface/goals/focus_GRE_third_civ.dds"
 	}
+	
+	SpriteType = { 
+		name = "GFX_focus_GRE_flag"
+		texturefile = "gfx/interface/goals/focus_GRE_flag.dds"
+	}	
 
 }
