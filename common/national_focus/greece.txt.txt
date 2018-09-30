@@ -2302,7 +2302,7 @@ focus_tree = {
 
 	focus = {
 		id = GRE_megali_idea
-		icon = GFX_goal_generic_territory_or_war
+		icon = GFX_focus_GRE_flag
     	text = GRE_megali_idea
 		prerequisite = { focus = GRE_expansionism }
 		x = 1
